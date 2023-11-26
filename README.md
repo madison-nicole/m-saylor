@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&background=F7B2FF00&center=true&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Madison!+%E2%99%A5%CB%9A+%C2%B7+%E2%80%A2%E2%99%A1" width="70%" />
 <br><br>
 <pre>
-    💼 <img src="https://github.com/m-saylor/m-saylor/blob/main/assets/cleffa.gif" height="40" /> B.A. at Harvard University • Psychology & Computer Science
+    💼 <img src="https://github.com/m-saylor/m-saylor/blob/main/assets/harvard-logo.jpg" height="20" /> B.A. at Harvard University • Psychology & Computer Science
     📖 Citation in the Spanish Language  
     💻 Full-Stack Software Engineer 
     🎮 Games • Anime • Books • Cooking • Fitness • Code
