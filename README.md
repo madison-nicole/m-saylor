@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/m-saylor/m-saylor/blob/main/assets/Madisons_Poke%CC%81mon_Profile.png" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&background=F7B2FF00&center=true&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Madison!+%E2%99%A5%CB%9A+%C2%B7+%E2%80%A2%E2%99%A1" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&background=F7B2FF00&center=true&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Madison!+%C2%B7+%E2%80%A2%E2%99%A1" width="70%" />
 <br><br>
 <pre>
     <p align="left">
@@ -31,7 +31,6 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-</div>
 
 <br>
 
@@ -41,7 +40,7 @@
 [![](https://img.shields.io/badge/github-252525)](https://github.com/m-saylor)
 
 
-
+</div>
 
 <!---
 m-saylor/m-saylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
