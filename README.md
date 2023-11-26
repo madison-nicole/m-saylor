@@ -18,9 +18,9 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="SQLite 3" src="https://img.shields.io/badge/-SQLite 3-e68338?style=flat-square&logo=SQLite&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-8cb4d8?style=flat-square&logo=C&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-76afac?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-DD0031?style=flat-square&logo=angular&logoColor=white" />
