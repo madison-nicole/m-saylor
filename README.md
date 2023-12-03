@@ -15,6 +15,7 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="SQLite 3" src="https://img.shields.io/badge/-SQLite 3-003B57?style=flat-square&logo=SQLite&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -43,4 +44,6 @@ m-saylor/m-saylor is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 Some of this template was inspired by https://github.com/innng and https://github.com/thmsgbrt
+
+Simple Icons Resource: https://simpleicons.org/
 --->
