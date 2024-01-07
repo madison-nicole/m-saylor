@@ -21,12 +21,13 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-DD0031?style=flat-square&logoColor=white" />
-  <img alt="M" src="https://img.shields.io/badge/-M-d9d2e9?style=flat-square&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
   <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="M" src="https://img.shields.io/badge/-M-d9d2e9?style=flat-square&logoColor=white" />
 </p>
 <br>
 
