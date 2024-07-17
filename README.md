@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/m-saylor/m-saylor/blob/main/assets/Madisons_Poke%CC%81mon_Profile.png" width="25%" align="right" />
+<img src="https://github.com/madison-nicole/madison-nicole/blob/main/assets/Madisons_Poke%CC%81mon_Profile.png" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D33FBA&background=F7B2FF00&center=true&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Madison!+%C2%B7+%E2%80%A2%E2%99%A1" width="70%" />
 <pre>
     💼 B.A. at Harvard University • Psychology & Computer Science
@@ -8,7 +8,7 @@
     🎮 Games • Anime • Books • Cooking • Fitness • Code
 </pre>
 
-<img src="https://github.com/m-saylor/m-saylor/blob/main/assets/cleffa.gif" height="40" />
+<img src="https://github.com/madison-nicole/madison-nicole/blob/main/assets/cleffa.gif" height="40" />
 <br>
 
 <h3>things I code with</h3>
@@ -43,13 +43,13 @@
 
 [![](https://img.shields.io/badge/email-f3f6f4)](mnicolesaylor@gmail.com)
 [![](https://img.shields.io/badge/linkedin-0077b5)](https://www.linkedin.com/in/madison--nicole)
-[![](https://img.shields.io/badge/github-252525)](https://github.com/m-saylor)
+[![](https://img.shields.io/badge/github-252525)](https://github.com/madison-nicole)
 
 
 </div>
 
 <!---
-m-saylor/m-saylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+madison-nicole/madison-nicole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 Some of this template was inspired by https://github.com/innng and https://github.com/thmsgbrt
