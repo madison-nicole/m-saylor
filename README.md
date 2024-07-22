@@ -16,7 +16,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react+query&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra+ui&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="SQLite 3" src="https://img.shields.io/badge/-SQLite 3-003B57?style=flat-square&logo=SQLite&logoColor=white" />
@@ -36,6 +36,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Lodash" src="https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white" />
   <img alt="M" src="https://img.shields.io/badge/-M-d9d2e9?style=flat-square&logoColor=white" />
 </p>
 <br>
