@@ -43,11 +43,12 @@
 </p>
 <br>
 
-<h3>how to reach me</h3>
+<!---
+    <h3>how to reach me</h3>
 
-[![](https://img.shields.io/badge/email-f3f6f4)](maddie0264@gmail.com)
-[![](https://img.shields.io/badge/github-252525)](https://github.com/madison-nicole)
-
+    [![](https://img.shields.io/badge/email-f3f6f4)](maddie0264@gmail.com)
+    [![](https://img.shields.io/badge/github-252525)](https://github.com/madison-nicole)
+--->
 
 </div>
 
